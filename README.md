@@ -2,5 +2,5 @@
 #include<stdio.h>
 void main
 {
-print f("hello world")
+print f("basic program")
 }
